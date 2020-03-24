@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6df8ba4f-69cb-4b4d-939a-250c265fe304" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZXp4VUzZdWv1C4GzlYm5iqEdMd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.lebedeva.service" />
+      <recent name="org.lebedeva.dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserServiceTest.testCaptor">
+    <configuration name="UserDaoTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva.dao" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.checkUserPresent_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva.service" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="checkUserPresent_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.checkUserPresent_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva.service" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="checkUserPresent_2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.checkUserPresent_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva.service" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="checkUserPresent_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testCaptor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva.service" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testCaptor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.testCaptor" />
+        <item itemvalue="JUnit.UserServiceTest.checkUserPresent_1" />
+        <item itemvalue="JUnit.UserDaoTest.findAll" />
+        <item itemvalue="JUnit.UserServiceTest.checkUserPresent_3" />
+        <item itemvalue="JUnit.UserServiceTest.checkUserPresent_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6df8ba4f-69cb-4b4d-939a-250c265fe304" name="Default Changelist" comment="" />
+      <created>1584995101784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584995101784</updated>
+      <workItem from="1584995107026" duration="2031000" />
+      <workItem from="1585027831313" duration="6288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1294" y="234" width="374" height="632" key="#com.intellij.ide.util.MemberChooser" timestamp="1585034902628">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="1294" y="234" width="374" height="632" key="#com.intellij.ide.util.MemberChooser/0.34.1920.1046@0.34.1920.1046" timestamp="1585034902628" />
+    <state width="1306" height="232" key="GridCell.Tab.0.bottom" timestamp="1585035036876">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1306" height="232" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1585035036876" />
+    <state width="1306" height="232" key="GridCell.Tab.0.center" timestamp="1585035036874">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1306" height="232" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1585035036874" />
+    <state width="1306" height="232" key="GridCell.Tab.0.left" timestamp="1585035036874">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1306" height="232" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1585035036874" />
+    <state width="1306" height="232" key="GridCell.Tab.0.right" timestamp="1585035036875">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1306" height="232" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1585035036875" />
+    <state x="1239" y="243" width="469" height="578" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585031087681">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="1239" y="243" width="469" height="578" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1585031087681" />
+  </component>
+</project>
